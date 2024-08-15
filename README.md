@@ -1,6 +1,6 @@
 Hey I'm NioZ.
 
-I'm french infosec student that likes Windows stuff like Active Directory and writing offensive tools in C/C++/Asm.
+I'm a french infosec student that likes Windows stuff like Active Directory and writing offensive tools in C/C++/Asm.
 
 ### Social
 
