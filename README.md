@@ -4,7 +4,7 @@ I'm a french infosec student that likes Windows stuff like Active Directory and 
 
 ### Social
 
-- [Twitter](https://github.com/NioZow)
+- [Twitter](https://x.com/NioZow)
 - [Blog](https://niozow.github.io/)
 
 <a>
