@@ -1,6 +1,6 @@
 Hey I'm NioZ.
 
-My name is Noah and I'm french infosec student that likes Windows stuff like Active Directory and writing offensive tools in C/C++/Asm.
+I'm french infosec student that likes Windows stuff like Active Directory and writing offensive tools in C/C++/Asm.
 
 ### Social
 
